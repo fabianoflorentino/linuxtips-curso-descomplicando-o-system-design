@@ -97,3 +97,4 @@
 |-----------------------|-----------------------------------------------------------------------|
 | Encurtador de Links   | [Draw.io](/cases/turma-3/T3-Case-Encurtador.drawio)                   |
 | Indexação de Catalogo | [Draw.io](/cases/turma-3/T3-Busca-Indexacao.drawio)                   |
+| Ledger de Transações  | [Draw.io](/cases/turma-3/T3-Ledger.drawio.xml)                        |
